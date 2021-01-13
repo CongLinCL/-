@@ -1,0 +1,11 @@
+E:\实训\vue\CL\API\Shopping_Web_Api\Shopping_Web_Api\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\实训\vue\CL\API\Shopping_Web_Api\Shopping_Web_Api\bin\Debug\netcoreapp3.1\Shopping_BLL.dll
+E:\实训\vue\CL\API\Shopping_Web_Api\Shopping_Web_Api\bin\Debug\netcoreapp3.1\Shopping_DAL.dll
+E:\实训\vue\CL\API\Shopping_Web_Api\Shopping_Web_Api\bin\Debug\netcoreapp3.1\Shopping_Model.dll
+E:\实训\vue\CL\API\Shopping_Web_Api\Shopping_Web_Api\obj\Debug\netcoreapp3.1\Shopping_Web_Api.csprojAssemblyReference.cache
+E:\实训\vue\CL\API\Shopping_Web_Api\Shopping_Web_Api\obj\Debug\netcoreapp3.1\Shopping_Web_Api.AssemblyInfoInputs.cache
+E:\实训\vue\CL\API\Shopping_Web_Api\Shopping_Web_Api\obj\Debug\netcoreapp3.1\Shopping_Web_Api.AssemblyInfo.cs
+E:\实训\vue\CL\API\Shopping_Web_Api\Shopping_Web_Api\obj\Debug\netcoreapp3.1\staticwebassets\Shopping_Web_Api.StaticWebAssets.Manifest.cache
+E:\实训\vue\CL\API\Shopping_Web_Api\Shopping_Web_Api\obj\Debug\netcoreapp3.1\staticwebassets\Shopping_Web_Api.StaticWebAssets.xml
+E:\实训\vue\CL\API\Shopping_Web_Api\Shopping_Web_Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Shopping_Web_Api.styles.css
+E:\实训\vue\CL\API\Shopping_Web_Api\Shopping_Web_Api\obj\Debug\netcoreapp3.1\Shopping_Web_Api.RazorTargetAssemblyInfo.cache

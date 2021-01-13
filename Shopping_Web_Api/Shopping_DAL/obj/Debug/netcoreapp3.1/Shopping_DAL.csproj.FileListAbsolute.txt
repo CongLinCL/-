@@ -1,0 +1,4 @@
+E:\实训\vue\CL\API\Shopping_Web_Api\Shopping_DAL\bin\Debug\netcoreapp3.1\Shopping_Model.dll
+E:\实训\vue\CL\API\Shopping_Web_Api\Shopping_DAL\obj\Debug\netcoreapp3.1\Shopping_DAL.csprojAssemblyReference.cache
+E:\实训\vue\CL\API\Shopping_Web_Api\Shopping_DAL\obj\Debug\netcoreapp3.1\Shopping_DAL.AssemblyInfoInputs.cache
+E:\实训\vue\CL\API\Shopping_Web_Api\Shopping_DAL\obj\Debug\netcoreapp3.1\Shopping_DAL.AssemblyInfo.cs
